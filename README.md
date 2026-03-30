@@ -43,6 +43,7 @@ Open the Excel file
 Navigate to the dashboard sheet
 Use slicers and filters to explore insights
 Review pivot tables for detailed analysis
-📌 Conclusion
+ 
+# Conclusion
 
 This project demonstrates how Excel can be used to transform raw sales data into actionable insights, helping businesses optimize performance and improve decision-making.
