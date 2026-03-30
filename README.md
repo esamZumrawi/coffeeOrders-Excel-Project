@@ -6,23 +6,23 @@ Excel data analysis project on coffee shop sales, identifying top customers, lea
 This project analyzes coffee shop sales data using Microsoft Excel to uncover key business insights. It focuses on identifying top customers, best-performing countries, and the most popular coffee types and sizes to support data-driven decision-making.
 
 # Objectives
-Identify top customers based on total spending
-Analyze sales performance by country
-Determine the most popular coffee types and sizes
-Track overall revenue trends
+* Identify top customers based on total spending
+* Analyze sales performance by country
+* Determine the most popular coffee types and sizes
+* Track overall revenue trends
 
 # Tools & Techniques
-Microsoft Excel
-Pivot Tables & Pivot Charts
-Excel Formulas (XLOOKUP, INDEX-MATCH, IFS)
-Data Cleaning & Transformation
-Interactive Dashboards
+* Microsoft Excel
+* Pivot Tables & Pivot Charts
+* Excel Formulas (XLOOKUP, INDEX-MATCH, IFS)
+* Data Cleaning & Transformation
+* Interactive Dashboards
 
 # Key Insights
-Top customers contribute a significant portion of total revenue
-Certain countries generate higher sales volumes
-Specific coffee types and sizes are consistently more popular
-Sales trends help identify peak business periods
+* Top customers contribute a significant portion of total revenue
+* Certain countries generate higher sales volumes
+* Specific coffee types and sizes are consistently more popular
+* Sales trends help identify peak business periods
 
 # Dataset
 
